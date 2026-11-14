@@ -1,0 +1,65 @@
+# Runs the tests, then publishes the repository as a static site on GitHub Pages.
+# The page is at /site/ (the root redirects there). It loads the engine, the
+# agents and the simulation straight from the repository, so there is no build.
+# A separate job re-checks the recorded testnet run against the chain; it reads
+# public RPC, so it does not hold up the page.
+#
+# To turn it on: repository Settings, Pages, Source: "GitHub Actions".
+name: tests and page
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node --test engine/test swarm/test contract/vm
+      - run: node swarm/simulate.mjs --seed 7
+      - run: node scripts/verify.mjs data/latest-local.json
+
+  testnet-run-on-chain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/verify.mjs
+
+  rules-in-rust:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: cargo test -p eitherway-core
+        working-directory: contract
+
+  publish:
+    needs: [test, rules-in-rust]
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4

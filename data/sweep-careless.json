@@ -1,0 +1,41 @@
+{
+  "seeds": 200,
+  "campaigns": 6000,
+  "fundedPlain": 0.237,
+  "fundedEitherWay": 0.5425,
+  "viableFundedPlain": 0.3802139037433155,
+  "viableFundedEitherWay": 0.8390374331550802,
+  "paidToProjectsPlain": 44593.17000000004,
+  "paidToProjectsEitherWay": 107075.97741,
+  "lockedForNothingPlain": 37840.96821899999,
+  "lockedForNothingEitherWay": 0,
+  "bonusPaid": 4257.678189999999,
+  "feesPaid": 1098.8425900000002,
+  "guaranteedShare": 1,
+  "rescued": 125,
+  "eitherWayBetterIn": 199,
+  "eitherWayWorseIn": 0,
+  "underwriterGroupProfit": -16.920776514999996,
+  "underwriterProfit": {
+    "sharp": {
+      "mean": 0.6810525400000003,
+      "lostMoneyShare": 0.15
+    },
+    "careful": {
+      "mean": -0.025656179999999997,
+      "lostMoneyShare": 0.06
+    },
+    "steady": {
+      "mean": 0.09918573000000006,
+      "lostMoneyShare": 0.15
+    },
+    "herd": {
+      "mean": -2.499150735000001,
+      "lostMoneyShare": 0.835
+    },
+    "naive": {
+      "mean": -15.176207869999994,
+      "lostMoneyShare": 1
+    }
+  }
+}

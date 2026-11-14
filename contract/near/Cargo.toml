@@ -1,0 +1,13 @@
+[package]
+name = "eitherway"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "EitherWay: crowdfunding where backers are paid if the goal is missed. NEAR contract."
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+near-sdk = "5.30.1"
+eitherway-core = { path = "../core" }

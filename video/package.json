@@ -1,0 +1,9 @@
+{
+  "name": "eitherway-video",
+  "private": true,
+  "description": "Tools that film the EitherWay demo video. Not needed to run the project.",
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "1.65.0"
+  }
+}

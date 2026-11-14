@@ -1,0 +1,157 @@
+{
+  "network": "testnet",
+  "parent": "eitherway.testnet",
+  "contract": "escrow.eitherway.testnet",
+  "seed": 9,
+  "rounds": 4,
+  "scale": 0.009,
+  "reserve": "1",
+  "createdAt": "2026-11-11T20:05:34.554Z",
+  "accounts": [
+    {
+      "id": "escrow.eitherway.testnet",
+      "role": "contract",
+      "funded": "2.1542"
+    },
+    {
+      "id": "backer-01.eitherway.testnet",
+      "role": "backer (hunter)",
+      "funded": "0.1987"
+    },
+    {
+      "id": "backer-02.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.2046"
+    },
+    {
+      "id": "backer-03.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.1483"
+    },
+    {
+      "id": "backer-04.eitherway.testnet",
+      "role": "backer (holdout)",
+      "funded": "0.1557"
+    },
+    {
+      "id": "backer-05.eitherway.testnet",
+      "role": "backer (holdout)",
+      "funded": "0.2124"
+    },
+    {
+      "id": "backer-06.eitherway.testnet",
+      "role": "backer (holdout)",
+      "funded": "0.1502"
+    },
+    {
+      "id": "backer-07.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.2402"
+    },
+    {
+      "id": "backer-08.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.2214"
+    },
+    {
+      "id": "backer-09.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.2364"
+    },
+    {
+      "id": "backer-10.eitherway.testnet",
+      "role": "backer (holdout)",
+      "funded": "0.1781"
+    },
+    {
+      "id": "backer-11.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.1803"
+    },
+    {
+      "id": "backer-12.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.1677"
+    },
+    {
+      "id": "backer-13.eitherway.testnet",
+      "role": "backer (holdout)",
+      "funded": "0.2627"
+    },
+    {
+      "id": "backer-14.eitherway.testnet",
+      "role": "backer (hunter)",
+      "funded": "0.2637"
+    },
+    {
+      "id": "backer-15.eitherway.testnet",
+      "role": "backer (believer)",
+      "funded": "0.1499"
+    },
+    {
+      "id": "backer-16.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.237"
+    },
+    {
+      "id": "backer-17.eitherway.testnet",
+      "role": "backer (believer)",
+      "funded": "0.217"
+    },
+    {
+      "id": "backer-18.eitherway.testnet",
+      "role": "backer (holdout)",
+      "funded": "0.2463"
+    },
+    {
+      "id": "backer-19.eitherway.testnet",
+      "role": "backer (follower)",
+      "funded": "0.2239"
+    },
+    {
+      "id": "backer-20.eitherway.testnet",
+      "role": "backer (believer)",
+      "funded": "0.1895"
+    },
+    {
+      "id": "uw-1.eitherway.testnet",
+      "role": "underwriter (sharp)",
+      "funded": "0.41"
+    },
+    {
+      "id": "uw-2.eitherway.testnet",
+      "role": "underwriter (careful)",
+      "funded": "0.41"
+    },
+    {
+      "id": "uw-3.eitherway.testnet",
+      "role": "underwriter (steady)",
+      "funded": "0.41"
+    },
+    {
+      "id": "uw-4.eitherway.testnet",
+      "role": "underwriter (bold)",
+      "funded": "0.41"
+    },
+    {
+      "id": "uw-5.eitherway.testnet",
+      "role": "underwriter (rookie)",
+      "funded": "0.41"
+    },
+    {
+      "id": "org-1.eitherway.testnet",
+      "role": "organizer",
+      "funded": "0.13"
+    },
+    {
+      "id": "org-2.eitherway.testnet",
+      "role": "organizer",
+      "funded": "0.13"
+    },
+    {
+      "id": "org-3.eitherway.testnet",
+      "role": "organizer",
+      "funded": "0.13"
+    }
+  ]
+}

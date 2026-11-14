@@ -1,0 +1,8 @@
+{
+  "network": "testnet",
+  "parent": "eitherway.testnet",
+  "contract": "escrow.eitherway.testnet",
+  "rpc": ["https://rpc.testnet.fastnear.com", "https://near-testnet.drpc.org", "https://rpc.testnet.near.org"],
+  "social": { "receiver": "social", "kv": "https://kv.test.fastnear.com", "tag": "eitherway" },
+  "explorer": "https://testnet.nearblocks.io"
+}

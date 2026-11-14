@@ -1,0 +1,19 @@
+
+200 different crowds, 6000 campaigns each way
+
+                                   ordinary     EitherWay
+campaigns funded                        24%           52%
+  of those with enough demand           38%           82%
+NEAR that reached projects            44593        100768
+NEAR tied up for nothing              37841         22461   (pledged to a failed campaign, returned with no bonus)
+bonuses paid to backers                                   864
+fees earned by underwriters                              1540
+
+campaigns that found a guarantor: 62%; rescued by their guarantor: 53
+EitherWay funded more campaigns in 198 of 200 crowds, fewer in 0.
+
+underwriters as a group: +2.86 NEAR per run
+by strategy (mean profit in NEAR per run, and runs that lost money):
+  sharp    +1.26      lost money in 34% of runs
+  careful  +0.11      lost money in 19% of runs
+  steady   +0.12      lost money in 38% of runs

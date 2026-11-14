@@ -1,0 +1,16 @@
+{
+  "name": "eitherway",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Crowdfunding on NEAR where backers are paid if the goal is missed. A swarm of underwriter agents bids to guarantee each campaign.",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test engine/test swarm/test contract/vm",
+    "sim": "node swarm/simulate.mjs",
+    "sweep": "node swarm/simulate.mjs --sweep 200",
+    "rehearse": "node swarm/live.mjs --local --rounds 4 --seed 9 --speed 20",
+    "verify": "node scripts/verify.mjs",
+    "page": "node scripts/serve.mjs"
+  }
+}

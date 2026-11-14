@@ -1,0 +1,12 @@
+.keys/
+node_modules/
+target/
+*.log
+.env
+video/work/
+__pycache__/
+.claude/
+video/out/*
+!video/out/eitherway-demo.mp4
+notes/
+dist/

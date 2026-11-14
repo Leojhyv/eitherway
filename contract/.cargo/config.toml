@@ -1,0 +1,3 @@
+# Without this cfg, near-sdk panics become silent traps and the wasm is larger.
+[target.wasm32-unknown-unknown]
+rustflags = ["--cfg", "near"]

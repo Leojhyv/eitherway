@@ -1,0 +1,1218 @@
+{
+ "network": "local",
+ "contract": "escrow.local",
+ "explorer": "",
+ "seed": 9,
+ "scale": 1,
+ "windows": {
+  "commitSecs": 40,
+  "revealSecs": 10,
+  "fundingSecs": 30
+ },
+ "llm": "z-ai/glm-5.3-flash",
+ "startedAt": "2026-11-11T09:43:21.647Z",
+ "cast": [
+  {
+   "id": "backer-01",
+   "role": "backer",
+   "kind": "hunter",
+   "cap": 8.264142,
+   "mandate": "I care about art and infrastructure and education. Up to 8.264 NEAR per project. I am here for the bonus, not the projects."
+  },
+  {
+   "id": "backer-02",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 8.589945,
+   "mandate": "I care about research and community. Up to 8.590 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-03",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 5.463396,
+   "mandate": "I care about education and art. Up to 5.463 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-04",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 5.875693,
+   "mandate": "I care about infrastructure and art and community. Up to 5.876 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-05",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 9.02425,
+   "mandate": "I care about community and research. Up to 9.024 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-06",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 5.570009,
+   "mandate": "I care about dev tools and infrastructure. Up to 5.570 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-07",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 10.571286,
+   "mandate": "I care about infrastructure and research. Up to 10.571 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-08",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 9.523203,
+   "mandate": "I care about dev tools and art. Up to 9.523 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-09",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 10.359597,
+   "mandate": "I care about education and art. Up to 10.360 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-10",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 7.11725,
+   "mandate": "I care about research and education. Up to 7.117 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-11",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 7.240817,
+   "mandate": "I care about infrastructure and dev tools. Up to 7.241 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-12",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 6.54174,
+   "mandate": "I care about education and infrastructure and community. Up to 6.542 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-13",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 11.819254,
+   "mandate": "I care about community and dev tools. Up to 11.819 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-14",
+   "role": "backer",
+   "kind": "hunter",
+   "cap": 11.875739,
+   "mandate": "I care about art and research. Up to 11.876 NEAR per project. I am here for the bonus, not the projects."
+  },
+  {
+   "id": "backer-15",
+   "role": "backer",
+   "kind": "believer",
+   "cap": 5.553586,
+   "mandate": "I care about art and education. Up to 5.554 NEAR per project. I back things early."
+  },
+  {
+   "id": "backer-16",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 10.389473,
+   "mandate": "I care about education and community. Up to 10.389 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-17",
+   "role": "backer",
+   "kind": "believer",
+   "cap": 9.280159,
+   "mandate": "I care about art and dev tools. Up to 9.280 NEAR per project. I back things early."
+  },
+  {
+   "id": "backer-18",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 10.906054,
+   "mandate": "I care about infrastructure and dev tools and research. Up to 10.906 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-19",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 9.662088,
+   "mandate": "I care about community and education. Up to 9.662 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-20",
+   "role": "backer",
+   "kind": "believer",
+   "cap": 7.753596,
+   "mandate": "I care about research and education. Up to 7.754 NEAR per project. I back things early."
+  },
+  {
+   "id": "uw-1",
+   "role": "underwriter",
+   "style": "sharp",
+   "about": "reads demand well and knows it"
+  },
+  {
+   "id": "uw-2",
+   "role": "underwriter",
+   "style": "careful",
+   "about": "only sure things, fat margin"
+  },
+  {
+   "id": "uw-3",
+   "role": "underwriter",
+   "style": "steady",
+   "about": "a decent read, a fair margin"
+  },
+  {
+   "id": "uw-4",
+   "role": "underwriter",
+   "style": "bold",
+   "about": "overconfident, bids low to win"
+  },
+  {
+   "id": "uw-5",
+   "role": "underwriter",
+   "style": "rookie",
+   "about": "reads demand badly, learns fast from losses"
+  },
+  {
+   "id": "org-1",
+   "role": "organizer",
+   "about": "sizes goals conservatively"
+  },
+  {
+   "id": "org-2",
+   "role": "organizer",
+   "about": "sizes goals about right"
+  },
+  {
+   "id": "org-3",
+   "role": "organizer",
+   "about": "asks for too much"
+  }
+ ],
+ "rounds": [
+  {
+   "id": 0,
+   "title": "Hackathon travel fund",
+   "topic": "community",
+   "organizer": "org-2",
+   "goal": 92.8721,
+   "bonusBps": 500,
+   "maxFeeBps": 838,
+   "demandRatio": 0.48,
+   "post": {
+    "ref": "org-2/1794390203222",
+    "text": "Hackathon travel fund\n\nGoal: 92.8721 NEAR. If we fall short, every backer gets their pledge back plus up to 5% for the wait, paid by whoever guarantees this.\n\n#eitherway #community\ncampaign escrow.local#0",
+    "tx": "local-social-1"
+   },
+   "txs": {
+    "create": "local-26",
+    "settle": "local-27",
+    "finalize": "local-28"
+   },
+   "interested": [
+    {
+     "agent": "backer-05",
+     "match": 0.4,
+     "why": "Community-focused travel fund, but weak research relevance",
+     "tx": "local-social-2"
+    },
+    {
+     "agent": "backer-02",
+     "match": 0.4,
+     "why": "Community-focused travel fund, but not research-oriented.",
+     "tx": "local-social-3"
+    },
+    {
+     "agent": "backer-13",
+     "match": 0.6,
+     "why": "Community-focused fund fits interests, but travel is tangential to dev tools.",
+     "tx": "local-social-4"
+    },
+    {
+     "agent": "backer-16",
+     "match": 0.4,
+     "why": "Community-focused but travel funding isn't clearly educational",
+     "tx": "local-social-5"
+    },
+    {
+     "agent": "backer-19",
+     "match": 0.4,
+     "why": "Community tag fits, but travel funding lacks education focus",
+     "tx": "local-social-6"
+    }
+   ],
+   "bids": [],
+   "passed": [
+    {
+     "agent": "uw-4",
+     "style": "bold",
+     "odds": 0.02,
+     "feeBps": 15435
+    },
+    {
+     "agent": "uw-1",
+     "style": "sharp",
+     "odds": 0.02,
+     "feeBps": 16905
+    },
+    {
+     "agent": "uw-3",
+     "style": "steady",
+     "odds": 0.02,
+     "feeBps": 18375
+    },
+    {
+     "agent": "uw-2",
+     "style": "careful",
+     "odds": 0.02,
+     "feeBps": 21315
+    },
+    {
+     "agent": "uw-5",
+     "style": "rookie",
+     "odds": 0.02,
+     "feeBps": 18375
+    }
+   ],
+   "pledges": [],
+   "thread": [
+    {
+     "author": "org-2",
+     "role": "organizer",
+     "tx": "local-social-7",
+     "text": "We fell short: 0 of 92.8721 NEAR. All 0 backers have their pledge back. #eitherway"
+    }
+   ],
+   "likes": 5,
+   "status": "Failed",
+   "raised": 0,
+   "backers": 0,
+   "bond": 4.643605,
+   "underwriter": null,
+   "clearingFeeBps": 0,
+   "fee": 0,
+   "bonusPaid": 0,
+   "paidOut": 0,
+   "rescued": false,
+   "chainBids": [],
+   "chainPledges": [],
+   "campaign": {
+    "id": 0,
+    "organizer": "org-2",
+    "beneficiary": "org-2",
+    "title": "Hackathon travel fund",
+    "social_post": "org-2/1794390203222",
+    "goal": "92872100000000000000000000",
+    "bonus_bps": 500,
+    "max_fee_bps": 838,
+    "bond": "4643605000000000000000000",
+    "created_at": 1794390203222,
+    "commit_end": 1794390243222,
+    "reveal_end": 1794390253222,
+    "deadline": 1794390283222,
+    "status": "Failed",
+    "phase": "Failed",
+    "auction_settled": true,
+    "underwriter": null,
+    "clearing_fee_bps": 0,
+    "raised": "0",
+    "bonus_owed": "0",
+    "backer_count": 0,
+    "bid_count": 0,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  },
+  {
+   "id": 1,
+   "title": "One-command local testnet",
+   "topic": "dev tools",
+   "organizer": "org-3",
+   "goal": 43.6402,
+   "bonusBps": 800,
+   "maxFeeBps": 1015,
+   "demandRatio": 0.98,
+   "post": {
+    "ref": "org-3/1794390283267",
+    "text": "One-command local testnet\n\nGoal: 43.6402 NEAR. If we fall short, every backer gets their pledge back plus up to 8% for the wait, paid by whoever guarantees this.\n\n#eitherway #devtools\ncampaign escrow.local#1",
+    "tx": "local-social-8"
+   },
+   "txs": {
+    "create": "local-29",
+    "settle": "local-34"
+   },
+   "interested": [
+    {
+     "agent": "backer-06",
+     "match": 0.9,
+     "why": "Dev tooling matches interests; goal nearly met, so pledge likely unneeded",
+     "tx": "local-social-9"
+    },
+    {
+     "agent": "backer-07",
+     "match": 0.7,
+     "why": "Devtools testnet fits research interests; modest goal, no early commits shown.",
+     "tx": "local-social-10"
+    },
+    {
+     "agent": "backer-08",
+     "match": 0.9,
+     "why": "Dev tools match directly; modest ask fits budget; no art angle.",
+     "tx": "local-social-11"
+    },
+    {
+     "agent": "backer-11",
+     "match": 0.95,
+     "why": "Dev tools project, within budget, escrow visible",
+     "tx": "local-social-12"
+    },
+    {
+     "agent": "backer-13",
+     "match": 0.9,
+     "why": "Dev tool for local testnet fits interests; small pledge",
+     "tx": "local-social-13"
+    },
+    {
+     "agent": "backer-18",
+     "match": 0.9,
+     "why": "Directly matches devtools interest; goal exceeds pledge cap",
+     "tx": "local-social-14"
+    },
+    {
+     "agent": "backer-17",
+     "match": 0.9,
+     "why": "Dev tool matching interests; early backing fits budget cap.",
+     "tx": "local-social-15"
+    }
+   ],
+   "bids": [
+    {
+     "agent": "uw-5",
+     "style": "rookie",
+     "feeBps": 590,
+     "odds": 0.5,
+     "note": "Zero track record and low interest make missing the goal more likely than base rates suggest.",
+     "revealed": true,
+     "commitTx": "local-30",
+     "revealTx": "local-33"
+    },
+    {
+     "agent": "uw-3",
+     "style": "steady",
+     "feeBps": 371,
+     "odds": 0.62,
+     "note": "Interest suggests pledges near goal; small goal and no failures offset my downside risk.",
+     "revealed": true,
+     "commitTx": "local-31",
+     "revealTx": "local-32"
+    }
+   ],
+   "passed": [
+    {
+     "agent": "uw-4",
+     "style": "bold",
+     "odds": 0.06,
+     "feeBps": 7274
+    },
+    {
+     "agent": "uw-1",
+     "style": "sharp",
+     "odds": 0.1,
+     "feeBps": 5003
+    },
+    {
+     "agent": "uw-2",
+     "style": "careful",
+     "odds": 0.23,
+     "feeBps": 2319
+    }
+   ],
+   "pledges": [
+    {
+     "agent": "backer-13",
+     "kind": "holdout",
+     "amount": 10.637328,
+     "at": 0,
+     "tx": "local-35",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-18",
+     "kind": "holdout",
+     "amount": 9.815448,
+     "at": 0,
+     "tx": "local-36",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-08",
+     "kind": "follower",
+     "amount": 8.570882,
+     "at": 0,
+     "tx": "local-37",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-07",
+     "kind": "follower",
+     "amount": 7.3999,
+     "at": 0,
+     "tx": "local-38",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-11",
+     "kind": "follower",
+     "amount": 6.878776,
+     "at": 0,
+     "tx": "local-39",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-06",
+     "kind": "holdout",
+     "amount": 0.337863,
+     "at": 0,
+     "tx": "local-40",
+     "bonus": 0
+    }
+   ],
+   "thread": [
+    {
+     "author": "uw-3",
+     "role": "guarantor",
+     "tx": "local-social-16",
+     "text": "I am guaranteeing this campaign. I have locked 3.4912 NEAR: if the goal is missed, it pays every backer's bonus. My fee if it succeeds: 5.90%. Why: Interest suggests pledges near goal; small goal and no failures offset my downside risk. #eitherway"
+    },
+    {
+     "author": "org-3",
+     "role": "organizer",
+     "tx": "local-social-17",
+     "text": "Funded: 43.6402 NEAR from 6 backers. uw-3 earned its 2.5747 NEAR fee for guaranteeing it. Thank you. #eitherway"
+    }
+   ],
+   "likes": 7,
+   "impliedOdds": 0.58,
+   "status": "Funded",
+   "raised": 43.6402,
+   "backers": 6,
+   "bond": 3.491216,
+   "underwriter": "uw-3",
+   "clearingFeeBps": 590,
+   "fee": 2.574771,
+   "bonusPaid": 0,
+   "paidOut": 41.065428,
+   "rescued": false,
+   "chainBids": [
+    {
+     "account": "uw-5",
+     "commitment": "9002244876f88fd0de5d453b55ba90bd2e0efd9c27632a57bbbbdf7692baa5d4",
+     "revealed": true,
+     "fee_bps": 590
+    },
+    {
+     "account": "uw-3",
+     "commitment": "3150a31eb398dc79ed41488eee2c736bc21871adab0a1fe67ef802e5945a4188",
+     "revealed": true,
+     "fee_bps": 371
+    }
+   ],
+   "chainPledges": [
+    {
+     "account": "backer-13",
+     "amount": "10637328600000000000000000",
+     "bonus": "849255381890208000000000"
+    },
+    {
+     "account": "backer-18",
+     "amount": "9815448600000000000000000",
+     "bonus": "783638718203808000000000"
+    },
+    {
+     "account": "backer-08",
+     "amount": "8570882700000000000000000",
+     "bonus": "684275961967056000000000"
+    },
+    {
+     "account": "backer-07",
+     "amount": "7399900200000000000000000",
+     "bonus": "590787904239456000000000"
+    },
+    {
+     "account": "backer-11",
+     "amount": "6878776150000000000000000",
+     "bonus": "549182777544872000000000"
+    },
+    {
+     "account": "backer-06",
+     "amount": "337863750000000000000000",
+     "bonus": "26974122810600000000000"
+    }
+   ],
+   "campaign": {
+    "id": 1,
+    "organizer": "org-3",
+    "beneficiary": "org-3",
+    "title": "One-command local testnet",
+    "social_post": "org-3/1794390283267",
+    "goal": "43640200000000000000000000",
+    "bonus_bps": 800,
+    "max_fee_bps": 1015,
+    "bond": "3491216000000000000000000",
+    "created_at": 1794390283267,
+    "commit_end": 1794390323267,
+    "reveal_end": 1794390333267,
+    "deadline": 1794390363267,
+    "status": "Funded",
+    "phase": "Funded",
+    "auction_settled": true,
+    "underwriter": "uw-3",
+    "clearing_fee_bps": 590,
+    "raised": "43640200000000000000000000",
+    "bonus_owed": "3484114866656000000000000",
+    "backer_count": 6,
+    "bid_count": 2,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  },
+  {
+   "id": 2,
+   "title": "Validator uptime monitor",
+   "topic": "infrastructure",
+   "organizer": "org-1",
+   "goal": 20.0503,
+   "bonusBps": 500,
+   "maxFeeBps": 783,
+   "demandRatio": 1.92,
+   "post": {
+    "ref": "org-1/1794390333837",
+    "text": "Validator uptime monitor\n\nGoal: 20.0503 NEAR. If we fall short, every backer gets their pledge back plus up to 5% for the wait, paid by whoever guarantees this.\n\n#eitherway #infrastructure\ncampaign escrow.local#2",
+    "tx": "local-social-18"
+   },
+   "txs": {
+    "create": "local-48",
+    "settle": "local-59"
+   },
+   "interested": [
+    {
+     "agent": "backer-04",
+     "match": 0.6,
+     "why": "Infrastructure-focused monitor fits interests, but lacks art and community elements.",
+     "tx": "local-social-19"
+    },
+    {
+     "agent": "backer-06",
+     "match": 0.9,
+     "why": "Infrastructure monitoring tool fits interests; small pledge, others likely cover",
+     "tx": "local-social-20"
+    },
+    {
+     "agent": "backer-07",
+     "match": 0.9,
+     "why": "Infrastructure-focused validator monitoring fits; goal slightly exceeds stated cap",
+     "tx": "local-social-21"
+    },
+    {
+     "agent": "backer-12",
+     "match": 0.4,
+     "why": "Infrastructure-related, but narrow validator tooling; weak education/community fit.",
+     "tx": "local-social-22"
+    },
+    {
+     "agent": "backer-13",
+     "match": 0.6,
+     "why": "Infrastructure tooling fits dev interests, but community benefit is indirect.",
+     "tx": "local-social-23"
+    },
+    {
+     "agent": "backer-11",
+     "match": 0.9,
+     "why": "Infrastructure monitoring tool fits interests; goal exceeds stated cap",
+     "tx": "local-social-24"
+    },
+    {
+     "agent": "backer-18",
+     "match": 0.9,
+     "why": "Validator uptime monitoring is core infrastructure; within budget.",
+     "tx": "local-social-25"
+    }
+   ],
+   "bids": [
+    {
+     "agent": "uw-4",
+     "style": "bold",
+     "feeBps": 7,
+     "odds": 0.98,
+     "note": "Likes suggest pledges near 45 NEAR, well above goal; unproven organizer adds slight uncertainty.",
+     "revealed": true,
+     "commitTx": "local-49",
+     "revealTx": "local-57"
+    },
+    {
+     "agent": "uw-5",
+     "style": "rookie",
+     "feeBps": 25,
+     "odds": 0.94,
+     "note": "Strong like-to-pledge ratio far exceeds goal; untested organizer adds slight uncertainty.",
+     "revealed": true,
+     "commitTx": "local-50",
+     "revealTx": "local-58"
+    },
+    {
+     "agent": "uw-3",
+     "style": "steady",
+     "feeBps": 8,
+     "odds": 0.98,
+     "note": "Seven likes suggest roughly 45 NEAR pledged, far above the small 20 NEAR goal.",
+     "revealed": true,
+     "commitTx": "local-51",
+     "revealTx": "local-56"
+    },
+    {
+     "agent": "uw-1",
+     "style": "sharp",
+     "feeBps": 8,
+     "odds": 0.98,
+     "note": "Likes suggest pledges far above goal; untested organizer adds uncertainty but signal is positive.",
+     "revealed": true,
+     "commitTx": "local-52",
+     "revealTx": "local-54"
+    },
+    {
+     "agent": "uw-2",
+     "style": "careful",
+     "feeBps": 23,
+     "odds": 0.95,
+     "note": "Likes suggest pledges far exceed the small goal; untested organizer adds slight uncertainty.",
+     "revealed": true,
+     "commitTx": "local-53",
+     "revealTx": "local-55"
+    }
+   ],
+   "passed": [],
+   "pledges": [
+    {
+     "agent": "backer-04",
+     "kind": "holdout",
+     "amount": 3.525415,
+     "at": 0.01,
+     "tx": "local-60",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-18",
+     "kind": "holdout",
+     "amount": 9.815448,
+     "at": 0.01,
+     "tx": "local-61",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-13",
+     "kind": "holdout",
+     "amount": 6.709435,
+     "at": 0.01,
+     "tx": "local-62",
+     "bonus": 0
+    }
+   ],
+   "thread": [
+    {
+     "author": "uw-4",
+     "role": "guarantor",
+     "tx": "local-social-26",
+     "text": "I am guaranteeing this campaign. I have locked 1.0025 NEAR: if the goal is missed, it pays every backer's bonus. My fee if it succeeds: 0.08%. Why: Likes suggest pledges near 45 NEAR, well above goal; unproven organizer adds slight uncertainty. #eitherway"
+    },
+    {
+     "author": "org-1",
+     "role": "organizer",
+     "tx": "local-social-27",
+     "text": "Funded: 20.0503 NEAR from 3 backers. uw-4 earned its 0.016 NEAR fee for guaranteeing it. Thank you. #eitherway"
+    }
+   ],
+   "likes": 7,
+   "impliedOdds": 0.98,
+   "status": "Funded",
+   "raised": 20.0503,
+   "backers": 3,
+   "bond": 1.002515,
+   "underwriter": "uw-4",
+   "clearingFeeBps": 8,
+   "fee": 0.01604,
+   "bonusPaid": 0,
+   "paidOut": 20.034259,
+   "rescued": false,
+   "chainBids": [
+    {
+     "account": "uw-4",
+     "commitment": "f666394d1461b2bc772513c0139bea95765ced2db7b193dfde4f3bf1adfb7b48",
+     "revealed": true,
+     "fee_bps": 7
+    },
+    {
+     "account": "uw-5",
+     "commitment": "9ed738955f4a2b2ea72f4e23c1fd41de5179f130db55311e6b5cb806753e014a",
+     "revealed": true,
+     "fee_bps": 25
+    },
+    {
+     "account": "uw-3",
+     "commitment": "f6c7883a5cf70b7b0f472da3e0cd158cc9c3451bc3930370e890b7cd86e89c6a",
+     "revealed": true,
+     "fee_bps": 8
+    },
+    {
+     "account": "uw-1",
+     "commitment": "ab64dd500560127d977ef60f7437787da1864fbf51b8a74987ea051509d08fec",
+     "revealed": true,
+     "fee_bps": 8
+    },
+    {
+     "account": "uw-2",
+     "commitment": "6916391e9e940a162b3956a319596cee86aa19d3e0b3bdd598ae8fd76a70aaab",
+     "revealed": true,
+     "fee_bps": 23
+    }
+   ],
+   "chainPledges": [
+    {
+     "account": "backer-04",
+     "amount": "3525415800000000000000000",
+     "bonus": "175254236354070000000000"
+    },
+    {
+     "account": "backer-18",
+     "amount": "9815448600000000000000000",
+     "bonus": "487942145396190000000000"
+    },
+    {
+     "account": "backer-13",
+     "amount": "6709435600000000000000000",
+     "bonus": "333537114244740000000000"
+    }
+   ],
+   "campaign": {
+    "id": 2,
+    "organizer": "org-1",
+    "beneficiary": "org-1",
+    "title": "Validator uptime monitor",
+    "social_post": "org-1/1794390333837",
+    "goal": "20050300000000000000000000",
+    "bonus_bps": 500,
+    "max_fee_bps": 783,
+    "bond": "1002515000000000000000000",
+    "created_at": 1794390333837,
+    "commit_end": 1794390373837,
+    "reveal_end": 1794390383837,
+    "deadline": 1794390413837,
+    "status": "Funded",
+    "phase": "Funded",
+    "auction_settled": true,
+    "underwriter": "uw-4",
+    "clearing_fee_bps": 8,
+    "raised": "20050300000000000000000000",
+    "bonus_owed": "996733495995000000000000",
+    "backer_count": 3,
+    "bid_count": 5,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  },
+  {
+   "id": 3,
+   "title": "Short documentary on builders",
+   "topic": "art",
+   "organizer": "org-3",
+   "goal": 32.3739,
+   "bonusBps": 500,
+   "maxFeeBps": 815,
+   "demandRatio": 0.9,
+   "post": {
+    "ref": "org-3/1794390384527",
+    "text": "Short documentary on builders\n\nGoal: 32.3739 NEAR. If we fall short, every backer gets their pledge back plus up to 5% for the wait, paid by whoever guarantees this.\n\n#eitherway #art\ncampaign escrow.local#3",
+    "tx": "local-social-28"
+   },
+   "txs": {
+    "create": "local-66",
+    "settle": "local-77"
+   },
+   "interested": [
+    {
+     "agent": "backer-04",
+     "match": 0.6,
+     "why": "Art-focused documentary fits interests, but infrastructure and community ties are weak.",
+     "tx": "local-social-29"
+    },
+    {
+     "agent": "backer-02",
+     "match": 0.4,
+     "why": "Art documentary loosely touches community, not research; builders angle helps.",
+     "tx": "local-social-30"
+    },
+    {
+     "agent": "backer-03",
+     "match": 0.6,
+     "why": "Art-related documentary, but education link is weak; others' commitments unclear.",
+     "tx": "local-social-31"
+    },
+    {
+     "agent": "backer-08",
+     "match": 0.6,
+     "why": "Art-adjacent documentary on builders; partial dev relevance",
+     "tx": "local-social-32"
+    },
+    {
+     "agent": "backer-09",
+     "match": 0.6,
+     "why": "Documentary on builders is art-related; education link weaker.",
+     "tx": "local-social-33"
+    },
+    {
+     "agent": "backer-13",
+     "match": 0.4,
+     "why": "Builders documentary loosely touches dev community, but it's art-focused.",
+     "tx": "local-social-34"
+    },
+    {
+     "agent": "backer-15",
+     "match": 0.6,
+     "why": "Documentary is art-adjacent but education link is weak",
+     "tx": "local-social-35"
+    },
+    {
+     "agent": "backer-17",
+     "match": 0.6,
+     "why": "Documentary on builders is art-adjacent; tagged #art, early-stage",
+     "tx": "local-social-36"
+    }
+   ],
+   "bids": [
+    {
+     "agent": "uw-5",
+     "style": "rookie",
+     "feeBps": 48,
+     "odds": 0.89,
+     "note": "Interest implies ~51 NEAR pledged, far above goal, and organizer has funded record.",
+     "revealed": true,
+     "commitTx": "local-67",
+     "revealTx": "local-76"
+    },
+    {
+     "agent": "uw-1",
+     "style": "sharp",
+     "feeBps": 8,
+     "odds": 0.98,
+     "note": "Perfect organizer record and strong like-to-pledge ratio suggest funding likely exceeds goal.",
+     "revealed": true,
+     "commitTx": "local-68",
+     "revealTx": "local-72"
+    },
+    {
+     "agent": "uw-4",
+     "style": "bold",
+     "feeBps": 7,
+     "odds": 0.98,
+     "note": "Strong like-to-pledge ratio and a perfect organizer record outweigh the small failure penalty.",
+     "revealed": true,
+     "commitTx": "local-69",
+     "revealTx": "local-75"
+    },
+    {
+     "agent": "uw-2",
+     "style": "careful",
+     "feeBps": 19,
+     "odds": 0.96,
+     "note": "Strong like-to-pledge ratio and a successful organizer history exceed the modest goal.",
+     "revealed": true,
+     "commitTx": "local-70",
+     "revealTx": "local-73"
+    },
+    {
+     "agent": "uw-3",
+     "style": "steady",
+     "feeBps": 17,
+     "odds": 0.96,
+     "note": "8 likes imply ~51 NEAR pledged, far above the 32.37 goal, and the organizer has a perfect funding record.",
+     "revealed": true,
+     "commitTx": "local-71",
+     "revealTx": "local-74"
+    }
+   ],
+   "passed": [],
+   "pledges": [
+    {
+     "agent": "backer-17",
+     "kind": "believer",
+     "amount": 5.568095,
+     "at": 0.01,
+     "tx": "local-78",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-15",
+     "kind": "believer",
+     "amount": 3.332151,
+     "at": 0.01,
+     "tx": "local-79",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-13",
+     "kind": "holdout",
+     "amount": 4.727701,
+     "at": 0.01,
+     "tx": "local-80",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-08",
+     "kind": "follower",
+     "amount": 5.713921,
+     "at": 0.01,
+     "tx": "local-81",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-04",
+     "kind": "holdout",
+     "amount": 3.525415,
+     "at": 0.01,
+     "tx": "local-82",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-09",
+     "kind": "follower",
+     "amount": 6.215758,
+     "at": 0.04,
+     "tx": "local-83",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-03",
+     "kind": "follower",
+     "amount": 3.278037,
+     "at": 0.04,
+     "tx": "local-84",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-02",
+     "kind": "follower",
+     "amount": 0.012818,
+     "at": 0.04,
+     "tx": "local-85",
+     "bonus": 0
+    }
+   ],
+   "thread": [
+    {
+     "author": "uw-4",
+     "role": "guarantor",
+     "tx": "local-social-37",
+     "text": "I am guaranteeing this campaign. I have locked 1.6186 NEAR: if the goal is missed, it pays every backer's bonus. My fee if it succeeds: 0.08%. Why: Strong like-to-pledge ratio and a perfect organizer record outweigh the small failure penalty. #eitherway"
+    },
+    {
+     "author": "org-3",
+     "role": "organizer",
+     "tx": "local-social-38",
+     "text": "Funded: 32.3739 NEAR from 8 backers. uw-4 earned its 0.0258 NEAR fee for guaranteeing it. Thank you. #eitherway"
+    }
+   ],
+   "likes": 8,
+   "impliedOdds": 0.98,
+   "status": "Funded",
+   "raised": 32.3739,
+   "backers": 8,
+   "bond": 1.618695,
+   "underwriter": "uw-4",
+   "clearingFeeBps": 8,
+   "fee": 0.025899,
+   "bonusPaid": 0,
+   "paidOut": 32.348,
+   "rescued": false,
+   "chainBids": [
+    {
+     "account": "uw-5",
+     "commitment": "f4b504006502781349712bf9f20a200f4c61dfa8df8f199642623fdfbea3fb7f",
+     "revealed": true,
+     "fee_bps": 48
+    },
+    {
+     "account": "uw-1",
+     "commitment": "52d44ad83b57b6afa04378bba6a88b9fcd03d9e356fcfb95423d732108cc1a3a",
+     "revealed": true,
+     "fee_bps": 8
+    },
+    {
+     "account": "uw-4",
+     "commitment": "907de5e5b0ff30af6ab725fd5bd225a482f380f7ec0a656e04480653e9eb731d",
+     "revealed": true,
+     "fee_bps": 7
+    },
+    {
+     "account": "uw-2",
+     "commitment": "ff51bf57338d0cb82673c30aa9bd19618d7e099a99081434f29a3ceec90518cd",
+     "revealed": true,
+     "fee_bps": 19
+    },
+    {
+     "account": "uw-3",
+     "commitment": "dbadbdea4ca85733c8d9c1880e6ed1721371215d7766b9efd9885386a2e496b2",
+     "revealed": true,
+     "fee_bps": 17
+    }
+   ],
+   "chainPledges": [
+    {
+     "account": "backer-17",
+     "amount": "5568095400000000000000000",
+     "bonus": "274674146082000000000000"
+    },
+    {
+     "account": "backer-15",
+     "amount": "3332151600000000000000000",
+     "bonus": "164375038428000000000000"
+    },
+    {
+     "account": "backer-13",
+     "amount": "4727701600000000000000000",
+     "bonus": "233217519928000000000000"
+    },
+    {
+     "account": "backer-08",
+     "amount": "5713921800000000000000000",
+     "bonus": "281867762394000000000000"
+    },
+    {
+     "account": "backer-04",
+     "amount": "3525415800000000000000000",
+     "bonus": "173908761414000000000000"
+    },
+    {
+     "account": "backer-09",
+     "amount": "6215758200000000000000000",
+     "bonus": "299651136033060000000000"
+    },
+    {
+     "account": "backer-03",
+     "amount": "3278037600000000000000000",
+     "bonus": "158028620032080000000000"
+    },
+    {
+     "account": "backer-02",
+     "amount": "12818000000000000000000",
+     "bonus": "617933989400000000000"
+    }
+   ],
+   "campaign": {
+    "id": 3,
+    "organizer": "org-3",
+    "beneficiary": "org-3",
+    "title": "Short documentary on builders",
+    "social_post": "org-3/1794390384527",
+    "goal": "32373900000000000000000000",
+    "bonus_bps": 500,
+    "max_fee_bps": 815,
+    "bond": "1618695000000000000000000",
+    "created_at": 1794390384527,
+    "commit_end": 1794390424527,
+    "reveal_end": 1794390434527,
+    "deadline": 1794390464527,
+    "status": "Funded",
+    "phase": "Funded",
+    "auction_settled": true,
+    "underwriter": "uw-4",
+    "clearing_fee_bps": 8,
+    "raised": "32373900000000000000000000",
+    "bonus_owed": "1586340918300540000000000",
+    "backer_count": 8,
+    "bid_count": 5,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  }
+ ],
+ "finishedAt": "2026-11-11T09:47:16.149Z",
+ "totals": {
+  "vault": "467445677000000000000000000",
+  "campaigns": 4
+ },
+ "results": {
+  "funded": 3,
+  "failed": 1,
+  "bonusPaid": 0,
+  "feesPaid": 2.61671,
+  "underwriters": [
+   {
+    "id": "uw-1",
+    "style": "sharp",
+    "profit": 0,
+    "won": 0,
+    "funded": 0,
+    "failed": 0,
+    "fees": 0,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-2",
+    "style": "careful",
+    "profit": 0,
+    "won": 0,
+    "funded": 0,
+    "failed": 0,
+    "fees": 0,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-3",
+    "style": "steady",
+    "profit": 2.574771,
+    "won": 1,
+    "funded": 1,
+    "failed": 0,
+    "fees": 2.574771,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-4",
+    "style": "bold",
+    "profit": 0.041939,
+    "won": 2,
+    "funded": 2,
+    "failed": 0,
+    "fees": 0.041939,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-5",
+    "style": "rookie",
+    "profit": 0,
+    "won": 0,
+    "funded": 0,
+    "failed": 0,
+    "fees": 0,
+    "bonuses": 0
+   }
+  ],
+  "modelCalls": 92,
+  "modelTokens": {
+   "input": 16580,
+   "output": 2433
+  }
+ }
+}

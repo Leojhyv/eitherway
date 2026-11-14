@@ -1,0 +1,1248 @@
+{
+ "network": "testnet",
+ "contract": "escrow.eitherway.testnet",
+ "explorer": "https://testnet.nearblocks.io",
+ "seed": 9,
+ "scale": 0.009,
+ "windows": {
+  "commitSecs": 90,
+  "revealSecs": 45,
+  "fundingSecs": 150
+ },
+ "llm": "z-ai/glm-5.3-flash",
+ "startedAt": "2026-11-11T20:16:46.336Z",
+ "cast": [
+  {
+   "id": "backer-01.eitherway.testnet",
+   "role": "backer",
+   "kind": "hunter",
+   "cap": 0.074377,
+   "mandate": "I care about art and infrastructure and education. Up to 0.074 NEAR per project. I am here for the bonus, not the projects."
+  },
+  {
+   "id": "backer-02.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.077309,
+   "mandate": "I care about research and community. Up to 0.077 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-03.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.04917,
+   "mandate": "I care about education and art. Up to 0.049 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-04.eitherway.testnet",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 0.052881,
+   "mandate": "I care about infrastructure and art and community. Up to 0.053 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-05.eitherway.testnet",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 0.081218,
+   "mandate": "I care about community and research. Up to 0.081 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-06.eitherway.testnet",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 0.05013,
+   "mandate": "I care about dev tools and infrastructure. Up to 0.050 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-07.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.095141,
+   "mandate": "I care about infrastructure and research. Up to 0.095 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-08.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.085708,
+   "mandate": "I care about dev tools and art. Up to 0.086 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-09.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.093236,
+   "mandate": "I care about education and art. Up to 0.093 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-10.eitherway.testnet",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 0.064055,
+   "mandate": "I care about research and education. Up to 0.064 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-11.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.065167,
+   "mandate": "I care about infrastructure and dev tools. Up to 0.065 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-12.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.058875,
+   "mandate": "I care about education and infrastructure and community. Up to 0.059 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-13.eitherway.testnet",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 0.106373,
+   "mandate": "I care about community and dev tools. Up to 0.106 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-14.eitherway.testnet",
+   "role": "backer",
+   "kind": "hunter",
+   "cap": 0.106881,
+   "mandate": "I care about art and research. Up to 0.107 NEAR per project. I am here for the bonus, not the projects."
+  },
+  {
+   "id": "backer-15.eitherway.testnet",
+   "role": "backer",
+   "kind": "believer",
+   "cap": 0.049982,
+   "mandate": "I care about art and education. Up to 0.050 NEAR per project. I back things early."
+  },
+  {
+   "id": "backer-16.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.093505,
+   "mandate": "I care about education and community. Up to 0.094 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-17.eitherway.testnet",
+   "role": "backer",
+   "kind": "believer",
+   "cap": 0.083521,
+   "mandate": "I care about art and dev tools. Up to 0.084 NEAR per project. I back things early."
+  },
+  {
+   "id": "backer-18.eitherway.testnet",
+   "role": "backer",
+   "kind": "holdout",
+   "cap": 0.098154,
+   "mandate": "I care about infrastructure and dev tools and research. Up to 0.098 NEAR per project. I would rather others paid, but I will step in if it is close."
+  },
+  {
+   "id": "backer-19.eitherway.testnet",
+   "role": "backer",
+   "kind": "follower",
+   "cap": 0.086958,
+   "mandate": "I care about community and education. Up to 0.087 NEAR per project. I like to see others commit first."
+  },
+  {
+   "id": "backer-20.eitherway.testnet",
+   "role": "backer",
+   "kind": "believer",
+   "cap": 0.069782,
+   "mandate": "I care about research and education. Up to 0.070 NEAR per project. I back things early."
+  },
+  {
+   "id": "uw-1.eitherway.testnet",
+   "role": "underwriter",
+   "style": "sharp",
+   "about": "reads demand well and knows it"
+  },
+  {
+   "id": "uw-2.eitherway.testnet",
+   "role": "underwriter",
+   "style": "careful",
+   "about": "only sure things, fat margin"
+  },
+  {
+   "id": "uw-3.eitherway.testnet",
+   "role": "underwriter",
+   "style": "steady",
+   "about": "a decent read, a fair margin"
+  },
+  {
+   "id": "uw-4.eitherway.testnet",
+   "role": "underwriter",
+   "style": "bold",
+   "about": "overconfident, bids low to win"
+  },
+  {
+   "id": "uw-5.eitherway.testnet",
+   "role": "underwriter",
+   "style": "rookie",
+   "about": "reads demand badly, learns fast from losses"
+  },
+  {
+   "id": "org-1.eitherway.testnet",
+   "role": "organizer",
+   "about": "sizes goals conservatively"
+  },
+  {
+   "id": "org-2.eitherway.testnet",
+   "role": "organizer",
+   "about": "sizes goals about right"
+  },
+  {
+   "id": "org-3.eitherway.testnet",
+   "role": "organizer",
+   "about": "asks for too much"
+  }
+ ],
+ "rounds": [
+  {
+   "id": 1,
+   "title": "Hackathon travel fund",
+   "topic": "community",
+   "organizer": "org-2.eitherway.testnet",
+   "goal": 0.8362,
+   "bonusBps": 500,
+   "maxFeeBps": 838,
+   "demandRatio": 0.48,
+   "post": {
+    "ref": "org-2.eitherway.testnet/1794428217038",
+    "text": "Hackathon travel fund\n\nGoal: 0.8362 NEAR. If we fall short, every backer gets their pledge back plus up to 5% for the wait, paid by whoever guarantees this.\n\n#eitherway #community\ncampaign escrow.eitherway.testnet#1",
+    "tx": "3oQAs2Fz1FUwdM4ES9nszsFDmefekWRWs9es4JNVzQBh"
+   },
+   "txs": {
+    "create": "utaVnpbMwyexYwDSgHjhJ4FABPbTs2rSnbiU3YQbMQk",
+    "settle": "3ya6RrL9scgBkj3LnrL981UfgKbApV8Rcw8VeMf3Sze9",
+    "finalize": "CxC13dpGUeAmaCa2e8dBcp4JzQhpvfBSgT1Pcpitbqi5"
+   },
+   "interested": [
+    {
+     "agent": "backer-05.eitherway.testnet",
+     "match": 0.55,
+     "why": "Community-focused travel fund fits, but hackathon travel isn't research.",
+     "tx": "2cSQcwCZQ1Y8QkhBH1ZuKztw1Mz9THtaWVFHGQwsAUm5"
+    },
+    {
+     "agent": "backer-02.eitherway.testnet",
+     "match": 0.6,
+     "why": "Community-focused campaign, but travel funding isn't research-related.",
+     "tx": "J4pfEnCS41ZuaMmbpwYdVz1efGBXM8AcMvofJS6XfXtp"
+    },
+    {
+     "agent": "backer-16.eitherway.testnet",
+     "match": 0.6,
+     "why": "Community-focused fund, but travel for hackathons isn't education broadly",
+     "tx": "5QGgfvzwJeDQkpLT93auGmWUCGADwzjGedi7JtRs2JLn"
+    },
+    {
+     "agent": "backer-12.eitherway.testnet",
+     "match": 0.5,
+     "why": "Community-focused travel fund, but weak on education and infrastructure",
+     "tx": "Bq65d5FdGjN6TmAPLPCLPCeqVfsNMR4kVHRPZ3G2to4"
+    },
+    {
+     "agent": "backer-13.eitherway.testnet",
+     "match": 0.5,
+     "why": "Community-focused, but travel fund isn't dev tools",
+     "tx": "44w5YsvjMXrPr8KHsUviJGWMqeAd5ygK6q56cQYJcqqG"
+    },
+    {
+     "agent": "backer-19.eitherway.testnet",
+     "match": 0.4,
+     "why": "Community tag fits, but hackathon travel is weakly educational.",
+     "tx": "D5VivqYN2L2oq2w83uv6YKwrRCeoFWkXkcac2ucGqFXc"
+    }
+   ],
+   "bids": [],
+   "passed": [
+    {
+     "agent": "uw-1.eitherway.testnet",
+     "style": "sharp",
+     "odds": 0.02,
+     "feeBps": 16905
+    },
+    {
+     "agent": "uw-2.eitherway.testnet",
+     "style": "careful",
+     "odds": 0.02,
+     "feeBps": 21315
+    },
+    {
+     "agent": "uw-4.eitherway.testnet",
+     "style": "bold",
+     "odds": 0.02,
+     "feeBps": 15435
+    },
+    {
+     "agent": "uw-3.eitherway.testnet",
+     "style": "steady",
+     "odds": 0.02,
+     "feeBps": 18375
+    },
+    {
+     "agent": "uw-5.eitherway.testnet",
+     "style": "rookie",
+     "odds": 0.04,
+     "feeBps": 8792
+    }
+   ],
+   "pledges": [],
+   "thread": [
+    {
+     "author": "org-2.eitherway.testnet",
+     "role": "organizer",
+     "tx": "GdHuFUTiwsNvF5BSX8acLbs1NXeg8bghJGdt6X6FbLBU",
+     "text": "We fell short of 0.8362 NEAR: nobody pledged, so there is nothing to refund. #eitherway"
+    }
+   ],
+   "likes": 6,
+   "status": "Failed",
+   "raised": 0,
+   "backers": 0,
+   "bond": 0.04181,
+   "underwriter": null,
+   "clearingFeeBps": 0,
+   "fee": 0,
+   "bonusPaid": 0,
+   "paidOut": 0,
+   "rescued": false,
+   "chainBids": [],
+   "chainPledges": [],
+   "campaign": {
+    "id": 1,
+    "organizer": "org-2.eitherway.testnet",
+    "beneficiary": "org-2.eitherway.testnet",
+    "title": "Hackathon travel fund",
+    "social_post": "org-2.eitherway.testnet/1794428217038",
+    "goal": "836200000000000000000000",
+    "bonus_bps": 500,
+    "max_fee_bps": 838,
+    "bond": "41810000000000000000000",
+    "created_at": 1794428224856,
+    "commit_end": 1794428314856,
+    "reveal_end": 1794428359856,
+    "deadline": 1794428509856,
+    "status": "Failed",
+    "phase": "Failed",
+    "auction_settled": true,
+    "underwriter": null,
+    "clearing_fee_bps": 0,
+    "raised": "0",
+    "bonus_owed": "0",
+    "backer_count": 0,
+    "bid_count": 0,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  },
+  {
+   "id": 2,
+   "title": "One-command local testnet",
+   "topic": "dev tools",
+   "organizer": "org-3.eitherway.testnet",
+   "goal": 0.3876,
+   "bonusBps": 800,
+   "maxFeeBps": 1015,
+   "demandRatio": 0.98,
+   "post": {
+    "ref": "org-3.eitherway.testnet/1794428519808",
+    "text": "One-command local testnet\n\nGoal: 0.3876 NEAR. If we fall short, every backer gets their pledge back plus up to 8% for the wait, paid by whoever guarantees this.\n\n#eitherway #devtools\ncampaign escrow.eitherway.testnet#2",
+    "tx": "Ewg6EzF6N1LvQ4pei5vkpLFk6P4pxMzCip6xXrLjcqWH"
+   },
+   "txs": {
+    "create": "FG5r6FYyG3fj2cHN8buEKRNkhdBG9d2VEtbVRxnaMeM",
+    "settle": "3BzzuHEvFNbthdr581qXpnynAgvczG8qKoECExrmQLPc"
+   },
+   "interested": [
+    {
+     "agent": "backer-02.eitherway.testnet",
+     "match": 0.6,
+     "why": "Devtools testnet aids research and community, but no early commitments shown.",
+     "tx": "96zaoPi4kDUr1MAi4KGHLfdtxkaqaZibiKkN4T24iPZb"
+    },
+    {
+     "agent": "backer-07.eitherway.testnet",
+     "match": 0.8,
+     "why": "Devtools testnet fits infrastructure and research interests",
+     "tx": "DjjnBJQcxqpTPnhasLak5nrngKYfu2DjJg7vjK8Vy2MC"
+    },
+    {
+     "agent": "backer-06.eitherway.testnet",
+     "match": 0.9,
+     "why": "Directly a devtools infrastructure tool; goal slightly above cap",
+     "tx": "CA2PaDquSbz4eWs7AeEWFMb9UR99s3as2uZfBbW9x4LA"
+    },
+    {
+     "agent": "backer-08.eitherway.testnet",
+     "match": 0.9,
+     "why": "Dev tools campaign fits interests; small pledge, escrow visible.",
+     "tx": "HKJtZKy4ELQWJHnmb1JAG9TEHMyvPMMwRazjkoa2LttN"
+    },
+    {
+     "agent": "backer-11.eitherway.testnet",
+     "match": 0.9,
+     "why": "Dev tools testnet matches interests; pledge within limit; no prior commits shown",
+     "tx": "HgfijFnQYEFhQ3Whv8GqS781yNYMeQMhxYW7SR6cJyVp"
+    },
+    {
+     "agent": "backer-13.eitherway.testnet",
+     "match": 0.9,
+     "why": "Dev tools testnet fits interests; small pledge, close goal",
+     "tx": "3Ut2MvurPCJ8djGBatSEkD91g4zigmKEdW5p8QQYoDBK"
+    },
+    {
+     "agent": "backer-17.eitherway.testnet",
+     "match": 0.95,
+     "why": "Dev tool for local testnet fits interests; pledge within budget.",
+     "tx": "Chpfojxonr8EQ8uv9tRHV8WiPTtNPfGTueFSA5i4iZ7G"
+    },
+    {
+     "agent": "backer-18.eitherway.testnet",
+     "match": 0.9,
+     "why": "Dev tools project directly matches interests; small pledge fits budget.",
+     "tx": "CvJTd63XWNNFsbQinBXgYLA1hFuETkumoZ5QFBLYoHCn"
+    }
+   ],
+   "bids": [
+    {
+     "agent": "uw-5.eitherway.testnet",
+     "style": "rookie",
+     "feeBps": 214,
+     "odds": 0.74,
+     "note": "Unproven organizer and tiny pledge base make missing the small goal more likely than baseline.",
+     "revealed": true,
+     "commitTx": "FSfnV7oRWux33MRFJjza7Z49DtyXsMXgRfUcNb1KELmG",
+     "revealTx": "FBdXbLoFbY7tanym9ff7ZY3EtkTCkD1igvLebSsRRJ5d"
+    }
+   ],
+   "passed": [
+    {
+     "agent": "uw-1.eitherway.testnet",
+     "style": "sharp",
+     "odds": 0.25,
+     "feeBps": 1650
+    },
+    {
+     "agent": "uw-3.eitherway.testnet",
+     "style": "steady",
+     "odds": 0.34,
+     "feeBps": 1157
+    },
+    {
+     "agent": "uw-4.eitherway.testnet",
+     "style": "bold",
+     "odds": 0.26,
+     "feeBps": 1438
+    },
+    {
+     "agent": "uw-2.eitherway.testnet",
+     "style": "careful",
+     "odds": 0.5,
+     "feeBps": 705
+    }
+   ],
+   "pledges": [
+    {
+     "agent": "backer-13.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.095735,
+     "at": 0.03,
+     "tx": "2g9iB27zcdPCHv3se7BMddkDEX7FfstthgSgZAaPTp8i",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-02.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.046385,
+     "at": 0.03,
+     "tx": "HPuoMPaovRVgu42UA8EodmqFSK69M5C11jbfW4x32XaT",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-18.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.088339,
+     "at": 0.03,
+     "tx": "2ZeyokpVPY3QuoCa6YRoKf8ShjHXGwSKZXFrcoVUdtRP",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-07.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.076113,
+     "at": 0.03,
+     "tx": "9am4m3fERPNwWQsLf9pv9uSiokoJM6P8Krn88TqWcxui",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-11.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.05865,
+     "at": 0.03,
+     "tx": "DPBY9czqy8B1nZnKrMUtpihKLZ3fYV7vTwG5ab27gD1y",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-08.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.022375,
+     "at": 0.03,
+     "tx": "E2qVFCfN8hR8b7WBwB24Q84ZtKCM8j3vbdy7yqBNiEoa",
+     "bonus": 0
+    }
+   ],
+   "thread": [
+    {
+     "author": "uw-5.eitherway.testnet",
+     "role": "guarantor",
+     "tx": "9zBbrn1wmxLVBeREGSikHc2binNh6iyVqaGRa89X2RiQ",
+     "text": "I am guaranteeing this campaign. I have locked 0.031 NEAR: if the goal is missed, it pays every backer's bonus. My fee if it succeeds: 10.15%. Why: Unproven organizer and tiny pledge base make missing the small goal more likely than baseline. #eitherway"
+    },
+    {
+     "author": "org-3.eitherway.testnet",
+     "role": "organizer",
+     "tx": "9cNdzUG8kUvhyym3BJmedr5zb35VstDRJ2KzENWFMhHr",
+     "text": "Funded: 0.3876 NEAR from 6 backers. uw-5 earned its 0.0393 NEAR fee for guaranteeing it. Thank you. #eitherway"
+    }
+   ],
+   "likes": 8,
+   "impliedOdds": 0.44,
+   "status": "Funded",
+   "raised": 0.3876,
+   "backers": 6,
+   "bond": 0.031008,
+   "underwriter": "uw-5.eitherway.testnet",
+   "clearingFeeBps": 1015,
+   "fee": 0.039341,
+   "bonusPaid": 0,
+   "paidOut": 0.348258,
+   "rescued": false,
+   "chainBids": [
+    {
+     "account": "uw-5.eitherway.testnet",
+     "commitment": "cfa3fc15ae68de8f5102fd1069a1f3ddfe6369b14586b5d6a7e4491209609c7a",
+     "revealed": true,
+     "fee_bps": 214
+    }
+   ],
+   "chainPledges": [
+    {
+     "account": "backer-13.eitherway.testnet",
+     "amount": "95735957400000000000000",
+     "bonus": "6971921314957152000000"
+    },
+    {
+     "account": "backer-18.eitherway.testnet",
+     "amount": "88339037400000000000000",
+     "bonus": "6433244462355552000000"
+    },
+    {
+     "account": "backer-02.eitherway.testnet",
+     "amount": "46385703000000000000000",
+     "bonus": "3378014700409440000000"
+    },
+    {
+     "account": "backer-11.eitherway.testnet",
+     "amount": "58650617700000000000000",
+     "bonus": "4252432538017296000000"
+    },
+    {
+     "account": "backer-07.eitherway.testnet",
+     "amount": "76113259200000000000000",
+     "bonus": "5518552279401216000000"
+    },
+    {
+     "account": "backer-08.eitherway.testnet",
+     "amount": "22375425300000000000000",
+     "bonus": "1622318576155344000000"
+    }
+   ],
+   "campaign": {
+    "id": 2,
+    "organizer": "org-3.eitherway.testnet",
+    "beneficiary": "org-3.eitherway.testnet",
+    "title": "One-command local testnet",
+    "social_post": "org-3.eitherway.testnet/1794428519808",
+    "goal": "387600000000000000000000",
+    "bonus_bps": 800,
+    "max_fee_bps": 1015,
+    "bond": "31008000000000000000000",
+    "created_at": 1794428527302,
+    "commit_end": 1794428617302,
+    "reveal_end": 1794428662302,
+    "deadline": 1794428812302,
+    "status": "Funded",
+    "phase": "Funded",
+    "auction_settled": true,
+    "underwriter": "uw-5.eitherway.testnet",
+    "clearing_fee_bps": 1015,
+    "raised": "387600000000000000000000",
+    "bonus_owed": "28176483871296000000000",
+    "backer_count": 6,
+    "bid_count": 1,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  },
+  {
+   "id": 3,
+   "title": "Validator uptime monitor",
+   "topic": "infrastructure",
+   "organizer": "org-1.eitherway.testnet",
+   "goal": 0.1864,
+   "bonusBps": 500,
+   "maxFeeBps": 783,
+   "demandRatio": 1.92,
+   "post": {
+    "ref": "org-1.eitherway.testnet/1794428695065",
+    "text": "Validator uptime monitor\n\nGoal: 0.1864 NEAR. If we fall short, every backer gets their pledge back plus up to 5% for the wait, paid by whoever guarantees this.\n\n#eitherway #infrastructure\ncampaign escrow.eitherway.testnet#3",
+    "tx": "JDcZJD7kvcoGaLoUkcNmktFdu6brEbXCjTsDkSZgxyYw"
+   },
+   "txs": {
+    "create": "5N513FTZvmQvG7Yjkx9QUv7RJ9q7XE6HQpcBdvSes2zo",
+    "settle": "4jwSQfNctPXEDgU1KiEfsXnx6FM9L3GhfR6GNuq9VZEV"
+   },
+   "interested": [
+    {
+     "agent": "backer-02.eitherway.testnet",
+     "match": 0.5,
+     "why": "Infrastructure tooling, not clearly research or community-focused",
+     "tx": "GzxYgGZxsnhkhGuFqtS3P9TgHouTu6hS36oWbhTdAA7c"
+    },
+    {
+     "agent": "backer-05.eitherway.testnet",
+     "match": 0.55,
+     "why": "Infrastructure monitoring aids community, but weak research relevance",
+     "tx": "8JV5sedCUo6WcHMGTHfiYUjRVLZn6LAfRBTFaCQwPvhG"
+    },
+    {
+     "agent": "backer-04.eitherway.testnet",
+     "match": 0.6,
+     "why": "Infrastructure-focused monitor fits interests, but no art or community angle.",
+     "tx": "Az4DH9mSCYRipqVavHxiBoPauSGfiKNzov2VFNrejkND"
+    },
+    {
+     "agent": "backer-06.eitherway.testnet",
+     "match": 0.9,
+     "why": "Infrastructure monitoring tool directly fits their dev tools and infrastructure interest",
+     "tx": "FMeJjTTuZHYFxcVdZCBcXexQSH914kX4w4zHhFpJ1tfs"
+    },
+    {
+     "agent": "backer-07.eitherway.testnet",
+     "match": 0.8,
+     "why": "Infrastructure-focused monitor fits interests; goal exceeds stated cap",
+     "tx": "4Bx2yKjjqQVw84ySJiNcBz5ZnrMoM5ruQEgSsfFa9Z8V"
+    },
+    {
+     "agent": "backer-11.eitherway.testnet",
+     "match": 0.8,
+     "why": "Infrastructure-focused project within budget, but no visible prior commits.",
+     "tx": "8QxZrXCy87yLngJVWHfaB1yNjF9SAA2AzLeog6XTJ1Bk"
+    },
+    {
+     "agent": "backer-12.eitherway.testnet",
+     "match": 0.5,
+     "why": "Infrastructure-focused, but validator monitoring is niche, not education or community",
+     "tx": "26XuhPhKQ9ZrZDXCmcbwdFqjrHDC11HEP9ttiuk92u24"
+    },
+    {
+     "agent": "backer-18.eitherway.testnet",
+     "match": 0.85,
+     "why": "Infrastructure monitoring tool fits interests; goal exceeds pledge cap",
+     "tx": "HREsjcAwi4T5pXUoxJGxwJQRBUJ6hgDEx3yf6ne5ZLyB"
+    }
+   ],
+   "bids": [
+    {
+     "agent": "uw-4.eitherway.testnet",
+     "style": "bold",
+     "feeBps": 7,
+     "odds": 0.98,
+     "note": "Eight likes suggest roughly 0.46 NEAR pledged, well above the 0.1864 goal.",
+     "revealed": true,
+     "commitTx": "3HGsvYasLUYRJ7TSRG9YMfFzv68yU5gihYy7da2t74F4",
+     "revealTx": "FhGnYtUSKYtfH61wJ3MfxXNawknUKUNUfStiTEsgEjxm"
+    },
+    {
+     "agent": "uw-3.eitherway.testnet",
+     "style": "steady",
+     "feeBps": 8,
+     "odds": 0.98,
+     "note": "Eight likes imply roughly 0.464 NEAR pledged, well above the 0.1864 goal.",
+     "revealed": true,
+     "commitTx": "FknPZ1ka9y4CQDXGhmTN4aPmxxnPNSHB1Sw5GdpQ2nsK",
+     "revealTx": "49qzpt6oSKuf8QYeLs9CjtV1Xj717RJEfd2j7VYBb8hs"
+    },
+    {
+     "agent": "uw-1.eitherway.testnet",
+     "style": "sharp",
+     "feeBps": 8,
+     "odds": 0.98,
+     "note": "Predicted pledges 0.464 NEAR far exceed the 0.1864 goal; untested organizer is neutral.",
+     "revealed": true,
+     "commitTx": "Bcno2BzwDNzzCLnXYdmdVCDwuA8D55cCd9ykWcsxfMSH",
+     "revealTx": "6LNGUkYaH3mPjcDBSu1SviHjuSZsfUGrFwzaneUi2p5m"
+    },
+    {
+     "agent": "uw-5.eitherway.testnet",
+     "style": "rookie",
+     "feeBps": 21,
+     "odds": 0.95,
+     "note": "Likes suggest pledges well above goal; untested organizer adds slight uncertainty.",
+     "revealed": true,
+     "commitTx": "DMmL19ez8ziHyzyUxkE7sqMeAKfZyEcNHf45qx5AsAXg",
+     "revealTx": "AFpfa6m7zit1CviHA7e9JKmUhVzgWNvS7suhQkFYUPCL"
+    },
+    {
+     "agent": "uw-2.eitherway.testnet",
+     "style": "careful",
+     "feeBps": 18,
+     "odds": 0.96,
+     "note": "Eight likes imply roughly 0.464 NEAR pledged, well above the 0.1864 goal.",
+     "revealed": true,
+     "commitTx": "2Gqobngy7Z6kHiWDkpPjKXfnmwk7HTtpKTsKjfRBidBi",
+     "revealTx": "BC42uSacCHyM9auTv8HNDUrCY3dBEEVLK3WvtDwiNbgZ"
+    }
+   ],
+   "passed": [],
+   "pledges": [
+    {
+     "agent": "backer-18.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.083431,
+     "at": 0.03,
+     "tx": "D7QfuLQbomE38WEzGtyvRe4GEkJdDfwQWz4mxkANJzgd",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-04.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.031728,
+     "at": 0.03,
+     "tx": "4Mo1wU3ZpDwkRBJy9Knxxrvk6pgjU9mwUVFs8iJscZwn",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-05.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.04467,
+     "at": 0.03,
+     "tx": "BujSFmbBRLMYtN445ZkQ1x5WJYm4VrXeAC1xJVivNh2U",
+     "bonus": 0
+    },
+    {
+     "agent": "backer-12.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.026569,
+     "at": 0.09,
+     "tx": "ECpb9mvamz6zUkYMdEzLjpSn8nhvVt6Ke3bKoWtoiLYB",
+     "bonus": 0
+    }
+   ],
+   "thread": [
+    {
+     "author": "uw-4.eitherway.testnet",
+     "role": "guarantor",
+     "tx": "87pqKAVRBUjvoYJDDRHMbQnQUWPFodgbyogEFjjXieC7",
+     "text": "I am guaranteeing this campaign. I have locked 0.0093 NEAR: if the goal is missed, it pays every backer's bonus. My fee if it succeeds: 0.08%. Why: Eight likes suggest roughly 0.46 NEAR pledged, well above the 0.1864 goal. #eitherway"
+    },
+    {
+     "author": "org-1.eitherway.testnet",
+     "role": "organizer",
+     "tx": "4U9CPHpibho8LGdiJ6B5RebZDHZJigDsdDv3T41u3SN8",
+     "text": "Funded: 0.1864 NEAR from 4 backers. uw-4 earned its 0.0001 NEAR fee for guaranteeing it. Thank you. #eitherway"
+    }
+   ],
+   "likes": 8,
+   "impliedOdds": 0.98,
+   "status": "Funded",
+   "raised": 0.1864,
+   "backers": 4,
+   "bond": 0.00932,
+   "underwriter": "uw-4.eitherway.testnet",
+   "clearingFeeBps": 8,
+   "fee": 0.000149,
+   "bonusPaid": 0,
+   "paidOut": 0.18625,
+   "rescued": false,
+   "chainBids": [
+    {
+     "account": "uw-4.eitherway.testnet",
+     "commitment": "ab8ee67e3c5639338149f20953f1d22dcd3974f07d47214ee1f4efe9d3c925f8",
+     "revealed": true,
+     "fee_bps": 7
+    },
+    {
+     "account": "uw-5.eitherway.testnet",
+     "commitment": "6bd9aeb08503aa8adfd04b0d288f1248bf177f75c32442179e627a1d3541d0b6",
+     "revealed": true,
+     "fee_bps": 21
+    },
+    {
+     "account": "uw-3.eitherway.testnet",
+     "commitment": "821032792ff92e636804df733775d77a624f722d12945d1d728110cbee7e4a40",
+     "revealed": true,
+     "fee_bps": 8
+    },
+    {
+     "account": "uw-1.eitherway.testnet",
+     "commitment": "3ac32be81e2fd2901166de5d471533cc51d72ba2f1139303c326e1eb24dd0424",
+     "revealed": true,
+     "fee_bps": 8
+    },
+    {
+     "account": "uw-2.eitherway.testnet",
+     "commitment": "f5b0e5a0cc192708125cfc1dd318ab6c7ce4fb9ca0bba4a0fc19b9c908b7bc8c",
+     "revealed": true,
+     "fee_bps": 18
+    }
+   ],
+   "chainPledges": [
+    {
+     "account": "backer-04.eitherway.testnet",
+     "amount": "31728742200000000000000",
+     "bonus": "1450880818261830000000"
+    },
+    {
+     "account": "backer-18.eitherway.testnet",
+     "amount": "83431313100000000000000",
+     "bonus": "3815117884477215000000"
+    },
+    {
+     "account": "backer-05.eitherway.testnet",
+     "amount": "44670037500000000000000",
+     "bonus": "2036029040223750000000"
+    },
+    {
+     "account": "backer-12.eitherway.testnet",
+     "amount": "26569907200000000000000",
+     "bonus": "1139503610086400000000"
+    }
+   ],
+   "campaign": {
+    "id": 3,
+    "organizer": "org-1.eitherway.testnet",
+    "beneficiary": "org-1.eitherway.testnet",
+    "title": "Validator uptime monitor",
+    "social_post": "org-1.eitherway.testnet/1794428695065",
+    "goal": "186400000000000000000000",
+    "bonus_bps": 500,
+    "max_fee_bps": 783,
+    "bond": "9320000000000000000000",
+    "created_at": 1794428703009,
+    "commit_end": 1794428793009,
+    "reveal_end": 1794428838009,
+    "deadline": 1794428988009,
+    "status": "Funded",
+    "phase": "Funded",
+    "auction_settled": true,
+    "underwriter": "uw-4.eitherway.testnet",
+    "clearing_fee_bps": 8,
+    "raised": "186400000000000000000000",
+    "bonus_owed": "8441531353049195000000",
+    "backer_count": 4,
+    "bid_count": 5,
+    "refunded_upto": 0,
+    "bonus_paid": "0",
+    "closed": true
+   }
+  },
+  {
+   "id": 4,
+   "title": "Short documentary on builders",
+   "topic": "art",
+   "organizer": "org-3.eitherway.testnet",
+   "goal": 0.3909,
+   "bonusBps": 500,
+   "maxFeeBps": 815,
+   "demandRatio": 0.9,
+   "post": {
+    "ref": "org-3.eitherway.testnet/1794428876182",
+    "text": "Short documentary on builders\n\nGoal: 0.3909 NEAR. If we fall short, every backer gets their pledge back plus up to 5% for the wait, paid by whoever guarantees this.\n\n#eitherway #art\ncampaign escrow.eitherway.testnet#4",
+    "tx": "E8ZMmAVbZuY6f5jDyYYZsoF6hbp5ok3bkn7WDGNHc5Ux"
+   },
+   "txs": {
+    "create": "9go4BE7bY3Vp3tMnMcxUTKBTT26PRMJrvXz9mu7weDsh",
+    "settle": "71BAud4U2kmjqdTXJGiA6kTEZPypiY3dqgoJ34GaRCbV",
+    "finalize": "BQKdgbfZxmPKuynvPQu2V4VjvawA9FCLLBst4QeqB6Xr"
+   },
+   "interested": [
+    {
+     "agent": "backer-04.eitherway.testnet",
+     "match": 0.5,
+     "why": "Art-focused documentary; weak infrastructure link, community partially",
+     "tx": "4d7GfooU2zx17qpZ3KzGugeaLMXgjrDgX5QNStcLTg4g"
+    },
+    {
+     "agent": "backer-03.eitherway.testnet",
+     "match": 0.6,
+     "why": "Documentary on builders touches art, but education link is weak",
+     "tx": "HwXJxXAnvV1CcgrvNKHkAX6auWHmiGWAF72jHzadNX4g"
+    },
+    {
+     "agent": "backer-09.eitherway.testnet",
+     "match": 0.6,
+     "why": "Documentary on builders touches art, but education link is weak.",
+     "tx": "6qR7S2tDSSxGGJHvp5dz3DyEr4Rpbn25tNRthuLHtkD"
+    },
+    {
+     "agent": "backer-08.eitherway.testnet",
+     "match": 0.6,
+     "why": "Documentary on builders touches art, but dev tools link is weak.",
+     "tx": "CcQa3tXsEQ9JkvR8wRCohahNQ9bkmcBCpG6GmMFo2SPv"
+    },
+    {
+     "agent": "backer-13.eitherway.testnet",
+     "match": 0.4,
+     "why": "Builders documentary loosely touches dev community, but it's art, not dev tools.",
+     "tx": "9Jxd8oiBpaym1xApVEZA8Efc55jJmJopVAdtVJoAhx1J"
+    },
+    {
+     "agent": "backer-15.eitherway.testnet",
+     "match": 0.5,
+     "why": "Documentary on builders touches art, but education link is weak",
+     "tx": "DjTEeZoLZy59zN8wgPY57twuzsezBYgssGDvPnjQXSPd"
+    },
+    {
+     "agent": "backer-17.eitherway.testnet",
+     "match": 0.7,
+     "why": "Documentary on builders blends art with dev culture; early backing fits.",
+     "tx": "HzDDKxrMb8sbFtLQWhzAh5UGY6trWRoVua8bqKMASvPe"
+    }
+   ],
+   "bids": [
+    {
+     "agent": "uw-4.eitherway.testnet",
+     "style": "bold",
+     "feeBps": 97,
+     "odds": 0.77,
+     "note": "Likes suggest ~0.41 NEAR pledged, exceeding goal; organizer has funded record.",
+     "revealed": true,
+     "commitTx": "GTrLuX66B6NrcHzDXbvWjrCRHqvUrQEtmAT4HsDx8kuk",
+     "revealTx": "FEnFR1sQMf8k2c5ZyyoEEJU4u4VgV1wnLvs6dtCNpioJ"
+    },
+    {
+     "agent": "uw-5.eitherway.testnet",
+     "style": "rookie",
+     "feeBps": 341,
+     "odds": 0.52,
+     "note": "Likes suggest ~0.41 NEAR pledged, exceeding goal; organizer has funded record.",
+     "revealed": true,
+     "commitTx": "57zvHFZhNS4f5pkBnLMXGYhheXSYXUPkidE8q7jMyv11",
+     "revealTx": "59Nz9QwkonaQ1Ei85eGaiWhfsmXQ2YBsdxgt3PCg9w4k"
+    },
+    {
+     "agent": "uw-1.eitherway.testnet",
+     "style": "sharp",
+     "feeBps": 165,
+     "odds": 0.68,
+     "note": "Seven likes suggest ~0.41 NEAR pledged, exceeding the 0.39 goal, and the organizer has a perfect funding record.",
+     "revealed": true,
+     "commitTx": "28Db4zw7NrwyoLyHSL3QBJcZjB8SyiBmPZHAuFEj8w4j",
+     "revealTx": "6vUZ1XN18oj1tWEYGSY5gDHJSxXbUD8vxft1a6ey4da2"
+    }
+   ],
+   "passed": [
+    {
+     "agent": "uw-2.eitherway.testnet",
+     "style": "careful",
+     "odds": 0.44,
+     "feeBps": 559
+    },
+    {
+     "agent": "uw-3.eitherway.testnet",
+     "style": "steady",
+     "odds": 0.55,
+     "feeBps": 310
+    }
+   ],
+   "pledges": [
+    {
+     "agent": "backer-17.eitherway.testnet",
+     "kind": "believer",
+     "amount": 0.058465,
+     "at": 0.04,
+     "tx": "BdJYfD9j4SQWUWHxeZEFLzYbCtcWRYyEhxS6B8bwAHLT",
+     "bonus": 0.002632
+    },
+    {
+     "agent": "backer-15.eitherway.testnet",
+     "kind": "believer",
+     "amount": 0.024991,
+     "at": 0.04,
+     "tx": "FtZnHQHJUqGppENMn9xcihyhwXTn7KEJvAu7w8wNQEXH",
+     "bonus": 0.00112
+    },
+    {
+     "agent": "backer-13.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.042549,
+     "at": 0.04,
+     "tx": "7Cc8JLSU6Dopf63SHzP58nWrT8ji5ctFsaxkyiBkFzSa",
+     "bonus": 0.001907
+    },
+    {
+     "agent": "backer-08.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.051425,
+     "at": 0.04,
+     "tx": "FRnzfEGKe2L3YB3W4nkMDJigFzRmsccuhtZXLjS11S5m",
+     "bonus": 0.002305
+    },
+    {
+     "agent": "backer-04.eitherway.testnet",
+     "kind": "holdout",
+     "amount": 0.02644,
+     "at": 0.04,
+     "tx": "8w38sPqvMNwMsrQ6LTH4oB6u31tPZ68bJEY2BQ4bmxyx",
+     "bonus": 0.001185
+    },
+    {
+     "agent": "backer-09.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.055941,
+     "at": 0.1,
+     "tx": "EnhEjLdwjMrbPfE8hcW3guKk8AipmBgqZ6LkC4nJ9hzA",
+     "bonus": 0.002362
+    },
+    {
+     "agent": "backer-03.eitherway.testnet",
+     "kind": "follower",
+     "amount": 0.029502,
+     "at": 0.1,
+     "tx": "AkEy9Y8qqu4LHpfpkfCgjWjN3j3VPExrzVk4BzcVeu5V",
+     "bonus": 0.001239
+    }
+   ],
+   "thread": [
+    {
+     "author": "uw-4.eitherway.testnet",
+     "role": "guarantor",
+     "tx": "BMSKtuaquYcqkpZ7Kqk6tyyiM78zeMxFDL6SC48pNASv",
+     "text": "I am guaranteeing this campaign. I have locked 0.0195 NEAR: if the goal is missed, it pays every backer's bonus. My fee if it succeeds: 1.65%. Why: Likes suggest ~0.41 NEAR pledged, exceeding goal; organizer has funded record. #eitherway"
+    },
+    {
+     "author": "org-3.eitherway.testnet",
+     "role": "organizer",
+     "tx": "C6mGZdDCcHaHmZM7Nn43doGTYrUypYmaULF5kVnA164E",
+     "text": "We fell short: 0.2893 of 0.3909 NEAR. All 7 backers have their pledge back, plus 0.0127 NEAR in bonuses paid by uw-4. #eitherway"
+    }
+   ],
+   "likes": 7,
+   "impliedOdds": 0.75,
+   "status": "Failed",
+   "raised": 0.289315,
+   "backers": 7,
+   "bond": 0.019545,
+   "underwriter": "uw-4.eitherway.testnet",
+   "clearingFeeBps": 165,
+   "fee": 0,
+   "bonusPaid": 0.012753,
+   "paidOut": 0,
+   "rescued": false,
+   "chainBids": [
+    {
+     "account": "uw-4.eitherway.testnet",
+     "commitment": "01f3e20c205ecb920fa15003baf45c5dfdc33fe22c6303e5988f36e3984542b8",
+     "revealed": true,
+     "fee_bps": 97
+    },
+    {
+     "account": "uw-5.eitherway.testnet",
+     "commitment": "215b5902dd0855046d4e7489c9b7df89a4522129b4874eceaf94519f2c111fda",
+     "revealed": true,
+     "fee_bps": 341
+    },
+    {
+     "account": "uw-1.eitherway.testnet",
+     "commitment": "fecf519aaf58a63a2ab61409ceecc26f1b3831163310ab72806805332cce51bf",
+     "revealed": true,
+     "fee_bps": 165
+    }
+   ],
+   "chainPledges": [
+    {
+     "account": "backer-17.eitherway.testnet",
+     "amount": "58465001700000000000000",
+     "bonus": "2632404241043010000000"
+    },
+    {
+     "account": "backer-15.eitherway.testnet",
+     "amount": "24991137000000000000000",
+     "bonus": "1120468880497050000000"
+    },
+    {
+     "account": "backer-13.eitherway.testnet",
+     "amount": "42549314400000000000000",
+     "bonus": "1907683618863960000000"
+    },
+    {
+     "account": "backer-04.eitherway.testnet",
+     "amount": "26440618500000000000000",
+     "bonus": "1185455876231025000000"
+    },
+    {
+     "account": "backer-08.eitherway.testnet",
+     "amount": "51425296200000000000000",
+     "bonus": "2305635156273330000000"
+    },
+    {
+     "account": "backer-09.eitherway.testnet",
+     "amount": "55941823800000000000000",
+     "bonus": "2362311335426400000000"
+    },
+    {
+     "account": "backer-03.eitherway.testnet",
+     "amount": "29502338400000000000000",
+     "bonus": "1239402086885520000000"
+    }
+   ],
+   "campaign": {
+    "id": 4,
+    "organizer": "org-3.eitherway.testnet",
+    "beneficiary": "org-3.eitherway.testnet",
+    "title": "Short documentary on builders",
+    "social_post": "org-3.eitherway.testnet/1794428876182",
+    "goal": "390900000000000000000000",
+    "bonus_bps": 500,
+    "max_fee_bps": 815,
+    "bond": "19545000000000000000000",
+    "created_at": 1794428884082,
+    "commit_end": 1794428974082,
+    "reveal_end": 1794429019082,
+    "deadline": 1794429169082,
+    "status": "Failed",
+    "phase": "Failed",
+    "auction_settled": true,
+    "underwriter": "uw-4.eitherway.testnet",
+    "clearing_fee_bps": 165,
+    "raised": "289315530000000000000000",
+    "bonus_owed": "12753361195220295000000",
+    "backer_count": 7,
+    "bid_count": 3,
+    "refunded_upto": 7,
+    "bonus_paid": "12753361195220295000000",
+    "closed": true
+   }
+  }
+ ],
+ "finishedAt": "2026-11-11T20:33:04.579Z",
+ "totals": {
+  "vault": "3916431493000000000000000",
+  "campaigns": 5
+ },
+ "results": {
+  "funded": 2,
+  "failed": 2,
+  "bonusPaid": 0.012753,
+  "feesPaid": 0.039490000000000004,
+  "underwriters": [
+   {
+    "id": "uw-1.eitherway.testnet",
+    "style": "sharp",
+    "profit": 0,
+    "won": 0,
+    "funded": 0,
+    "failed": 0,
+    "fees": 0,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-2.eitherway.testnet",
+    "style": "careful",
+    "profit": 0,
+    "won": 0,
+    "funded": 0,
+    "failed": 0,
+    "fees": 0,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-3.eitherway.testnet",
+    "style": "steady",
+    "profit": 0,
+    "won": 0,
+    "funded": 0,
+    "failed": 0,
+    "fees": 0,
+    "bonuses": 0
+   },
+   {
+    "id": "uw-4.eitherway.testnet",
+    "style": "bold",
+    "profit": -0.012604,
+    "won": 2,
+    "funded": 1,
+    "failed": 1,
+    "fees": 0.000149,
+    "bonuses": 0.012753
+   },
+   {
+    "id": "uw-5.eitherway.testnet",
+    "style": "rookie",
+    "profit": 0.039341,
+    "won": 1,
+    "funded": 1,
+    "failed": 0,
+    "fees": 0.039341,
+    "bonuses": 0
+   }
+  ],
+  "modelCalls": 92,
+  "modelTokens": {
+   "input": 16853,
+   "output": 2470
+  },
+  "toppedUp": 0.086691
+ },
+ "topUps": [
+  {
+   "agent": "backer-18.eitherway.testnet",
+   "amount": 0.086691,
+   "round": 3,
+   "tx": "HuLqZLb2CWa9AFBHZmkLuADwHZnPfydmvCCMUTp1jqVZ"
+  }
+ ],
+ "gas": {
+  "deposit": {
+   "calls": 14,
+   "attachedTgas": 10,
+   "maxBurntTgas": 2.31
+  },
+  "create_campaign": {
+   "calls": 4,
+   "attachedTgas": 20,
+   "maxBurntTgas": 2.28
+  },
+  "settle_auction": {
+   "calls": 4,
+   "attachedTgas": 20,
+   "maxBurntTgas": 3.08
+  },
+  "finalize": {
+   "calls": 2,
+   "attachedTgas": 60,
+   "maxBurntTgas": 5.66
+  },
+  "commit_bid": {
+   "calls": 9,
+   "attachedTgas": 20,
+   "maxBurntTgas": 2.3
+  },
+  "reveal_bid": {
+   "calls": 9,
+   "attachedTgas": 20,
+   "maxBurntTgas": 2.02
+  },
+  "pledge": {
+   "calls": 17,
+   "attachedTgas": 20,
+   "maxBurntTgas": 3.27
+  }
+ }
+}
