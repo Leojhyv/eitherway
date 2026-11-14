@@ -13,7 +13,8 @@ Built at NEAR HACKATHON, track **AI Swarms** (`swarms`).
 
 - **Live page:** https://leojhyv.github.io/eitherway/site/ (play any round,
   compare with and without underwriters, see the testnet run)
-- **Demo video:** [video/out/eitherway-demo.mp4](video/out/eitherway-demo.mp4) (1:57)
+- **Demo video (1:57):** [watch it in the browser](https://leojhyv.github.io/eitherway/video/out/eitherway-demo.mp4),
+  or download [video/out/eitherway-demo.mp4](video/out/eitherway-demo.mp4)
 - **Contract:** [`escrow.eitherway.testnet`](https://testnet.nearblocks.io/address/escrow.eitherway.testnet) on NEAR testnet
 
 ## The problem, and what this changes
@@ -282,9 +283,10 @@ docs/                    how the demo video is made
 
 ## Demo video
 
-[video/out/eitherway-demo.mp4](video/out/eitherway-demo.mp4) (1:57): the
-problem, the one change, who pays, one campaign of each outcome, the number,
-and the swarm's testnet run. The script and how it is produced are in
+[Watch it in the browser](https://leojhyv.github.io/eitherway/video/out/eitherway-demo.mp4)
+(1:57; the file is [video/out/eitherway-demo.mp4](video/out/eitherway-demo.mp4)):
+the problem, the one change, who pays, one campaign of each outcome, the
+number, and the swarm's testnet run. The script and how it is produced are in
 [docs/VIDEO.md](docs/VIDEO.md).
 
 ## What's next
