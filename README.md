@@ -39,11 +39,11 @@ money.
 
 ## Try it
 
-You need **Node 20 or newer**. There is nothing to install.
+You need **Node 22 or newer**. There is nothing to install.
 
 | Do this | You should see |
 |---|---|
-| `node --test engine/test swarm/test contract/vm` | `pass 41`, `fail 0`. The last four run the built contract itself (a few seconds in all) |
+| `node --test engine/test/market.test.mjs swarm/test/swarm.test.mjs contract/vm/replay.test.mjs` | `pass 41`, `fail 0`. The last four run the built contract itself (a few seconds in all) |
 | `node swarm/simulate.mjs` | 30 campaigns run twice with the same crowd. Last lines: `campaigns funded 12 20 of 30` and each underwriter's profit |
 | `node swarm/simulate.mjs --sweep 200` | `campaigns funded 24% 53%` across 200 crowds (takes about a minute) |
 | `node swarm/live.mjs --local --rounds 4 --seed 9 --speed 20` | The swarm running live on a local chain, fast-forwarded: announcements, likes, sealed bids, pledges, outcomes |

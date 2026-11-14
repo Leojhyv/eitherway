@@ -1,5 +1,5 @@
 // Tests for the parts around the rules: the NEAR client, the simulation, the
-// local chain and the near.social record format. Run: node --test swarm/test
+// local chain and the near.social record format. Run: node --test swarm/test/swarm.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { createHash, createPublicKey, verify } from 'node:crypto';

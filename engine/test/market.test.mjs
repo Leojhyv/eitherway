@@ -1,4 +1,4 @@
-// Rule-by-rule tests for the engine. Run: node --test engine/test
+// Rule-by-rule tests for the engine. Run: node --test engine/test/market.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';

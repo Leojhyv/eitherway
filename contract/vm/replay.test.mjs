@@ -1,7 +1,7 @@
 // Runs the built contract itself (contract/res/eitherway.wasm) through every
 // recorded scenario and requires the same answers the rules engine gave.
 //
-//   node --test contract/vm
+//   node --test contract/vm/replay.test.mjs
 //
 // The Rust test in contract/core checks the rules. This checks the thing that
 // actually gets deployed: argument parsing, storage layout, views, return
